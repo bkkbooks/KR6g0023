@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6g0023/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大般涅槃經後分
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0377.xml
+    old_id: T12n0377
+hash: sha256:d3cc1c678fca144b21d4cb52a667ee80f8e5aca9b25419e7347ab365d09a0976
